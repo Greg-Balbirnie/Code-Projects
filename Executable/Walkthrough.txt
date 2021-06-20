@@ -1,0 +1,15 @@
+Walk up to the key on the table and press E to pick it up when prompted. 
+The number in the lower left tells you what door the key opens so go to that room and press E to open the door.
+in this room the key can be found on the sofa after you have turned the light off and on again once.
+
+The bookshelf in the next room can be pushed with E revealing a mirror.
+Walk through the mirror and approach the teddy in a corner of the room.
+When the objects in the room are broken, the key can be found in the wardrobe.
+
+This next room has a lift. 
+By going into the lift and pressing the button with E, it will move down to the caves below.
+walk through the caves and collect the key on the pedestal and then go back up the lift to the corridor.
+
+The final key does not tell you what door it is for. 
+It is actually for the unmarked door at the end of the corridor.
+keep walking into this final room to trigger the end of the game.

@@ -1,0 +1,47 @@
+﻿  compilation object save succeeded; see M:\year3\Semseter 2\Procedural Content\Coursework\Shaders\E01_ColourShader\colour_ps.cso
+  compilation object save succeeded; see M:\year3\Semseter 2\Procedural Content\Coursework\Shaders\E01_ColourShader\colour_vs.cso
+  compilation object save succeeded; see M:\year3\Semseter 2\Procedural Content\Coursework\Shaders\E01_ColourShader\horizontalBlur_ps.cso
+  compilation object save succeeded; see M:\year3\Semseter 2\Procedural Content\Coursework\Shaders\E01_ColourShader\horizontalBlur_vs.cso
+  compilation object save succeeded; see M:\year3\Semseter 2\Procedural Content\Coursework\Shaders\E01_ColourShader\texture_ps.cso
+  compilation object save succeeded; see M:\year3\Semseter 2\Procedural Content\Coursework\Shaders\E01_ColourShader\texture_vs.cso
+  compilation object save succeeded; see M:\year3\Semseter 2\Procedural Content\Coursework\Shaders\E01_ColourShader\verticalBlur_ps.cso
+  compilation object save succeeded; see M:\year3\Semseter 2\Procedural Content\Coursework\Shaders\E01_ColourShader\verticalBlur_vs.cso
+  VerticalBlurShader.cpp
+  TextureShader.cpp
+  Ratio.cpp
+m:\year3\semseter 2\procedural content\coursework\shaders\e01_colourshader\ratio.cpp(46): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+m:\year3\semseter 2\procedural content\coursework\shaders\e01_colourshader\ratio.cpp(50): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  noise.cpp
+  Main.cpp
+  HorizontalBlurShader.cpp
+  CustomPlaneMesh.cpp
+m:\year3\semseter 2\procedural content\coursework\shaders\e01_colourshader\customplanemesh.cpp(56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+m:\year3\semseter 2\procedural content\coursework\shaders\e01_colourshader\customplanemesh.cpp(66): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+m:\year3\semseter 2\procedural content\coursework\shaders\e01_colourshader\customplanemesh.cpp(78): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+m:\year3\semseter 2\procedural content\coursework\shaders\e01_colourshader\customplanemesh.cpp(88): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+m:\year3\semseter 2\procedural content\coursework\shaders\e01_colourshader\customplanemesh.cpp(98): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+m:\year3\semseter 2\procedural content\coursework\shaders\e01_colourshader\customplanemesh.cpp(108): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+m:\year3\semseter 2\procedural content\coursework\shaders\e01_colourshader\customplanemesh.cpp(127): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+m:\year3\semseter 2\procedural content\coursework\shaders\e01_colourshader\customplanemesh.cpp(174): warning C4018: '<': signed/unsigned mismatch
+m:\year3\semseter 2\procedural content\coursework\shaders\e01_colourshader\customplanemesh.cpp(249): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+m:\year3\semseter 2\procedural content\coursework\shaders\e01_colourshader\customplanemesh.cpp(250): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+m:\year3\semseter 2\procedural content\coursework\shaders\e01_colourshader\customplanemesh.cpp(253): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+m:\year3\semseter 2\procedural content\coursework\shaders\e01_colourshader\customplanemesh.cpp(254): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+m:\year3\semseter 2\procedural content\coursework\shaders\e01_colourshader\customplanemesh.cpp(257): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+m:\year3\semseter 2\procedural content\coursework\shaders\e01_colourshader\customplanemesh.cpp(258): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+m:\year3\semseter 2\procedural content\coursework\shaders\e01_colourshader\customplanemesh.cpp(261): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+m:\year3\semseter 2\procedural content\coursework\shaders\e01_colourshader\customplanemesh.cpp(262): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+m:\year3\semseter 2\procedural content\coursework\shaders\e01_colourshader\customplanemesh.cpp(265): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+m:\year3\semseter 2\procedural content\coursework\shaders\e01_colourshader\customplanemesh.cpp(266): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+m:\year3\semseter 2\procedural content\coursework\shaders\e01_colourshader\customplanemesh.cpp(269): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+m:\year3\semseter 2\procedural content\coursework\shaders\e01_colourshader\customplanemesh.cpp(270): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+  ColourShader.cpp
+  App1.cpp
+m:\year3\semseter 2\procedural content\coursework\shaders\e01_colourshader\app1.cpp(311): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+m:\year3\semseter 2\procedural content\coursework\shaders\e01_colourshader\app1.cpp(350): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+DXFramework.lib(WICTextureLoader.obj) : warning LNK4099: PDB 'DirectXTK.pdb' was not found with 'DXFramework.lib(WICTextureLoader.obj)' or at 'M:\year3\Semseter 2\Procedural Content\Coursework\Shaders\Debug\DirectXTK.pdb'; linking object as if no debug info
+DXFramework.lib(pch.obj) : warning LNK4099: PDB 'DirectXTK.pdb' was not found with 'DXFramework.lib(pch.obj)' or at 'M:\year3\Semseter 2\Procedural Content\Coursework\Shaders\Debug\DirectXTK.pdb'; linking object as if no debug info
+DXFramework.lib(DDSTextureLoader.obj) : warning LNK4099: PDB 'DirectXTK.pdb' was not found with 'DXFramework.lib(DDSTextureLoader.obj)' or at 'M:\year3\Semseter 2\Procedural Content\Coursework\Shaders\Debug\DirectXTK.pdb'; linking object as if no debug info
+  E01_ColourShader.vcxproj -> M:\year3\Semseter 2\Procedural Content\Coursework\Shaders\Debug\E01_ColourShader.exe
+  E01_ColourShader.vcxproj -> M:\year3\Semseter 2\Procedural Content\Coursework\Shaders\Debug\E01_ColourShader.pdb (Full PDB)

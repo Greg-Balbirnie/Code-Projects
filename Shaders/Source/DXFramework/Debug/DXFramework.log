@@ -1,0 +1,29 @@
+﻿  TriangleMesh.cpp
+  TokenStream.cpp
+  Timer.cpp
+  TextureManager.cpp
+  TessellationMesh.cpp
+  System.cpp
+  SphereMesh.cpp
+  RenderTexture.cpp
+  QuadMesh.cpp
+  PointMesh.cpp
+  PlaneMesh.cpp
+  OrthoMesh.cpp
+  Model.cpp
+  Light.cpp
+  Input.cpp
+  imgui_impl_dx11.cpp
+  imgui_draw.cpp
+  imgui_demo.cpp
+  imgui.cpp
+  D3D.cpp
+  Generating Code...
+  Compiling...
+  CubeMesh.cpp
+  Camera.cpp
+  BaseShader.cpp
+  BaseMesh.cpp
+  BaseApplication.cpp
+  Generating Code...
+  DXFramework.vcxproj -> M:\year3\Graphics Programming with Shaders\Coursework Submission\Debug\DXFramework.lib

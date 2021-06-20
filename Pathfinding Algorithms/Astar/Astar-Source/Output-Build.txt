@@ -1,0 +1,13 @@
+﻿1>------ Build started: Project: basic-benchmarking, Configuration: Debug Win32 ------
+1>  Astar.cpp
+1>m:\year2\data structures and algorithms 1\basic-benchmarking-week9.5\basic-benchmarking\basic-benchmarking\astar.cpp(71): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+1>m:\year2\data structures and algorithms 1\basic-benchmarking-week9.5\basic-benchmarking\basic-benchmarking\astar.cpp(117): warning C4244: 'return' : conversion from 'int' to 'float', possible loss of data
+1>m:\year2\data structures and algorithms 1\basic-benchmarking-week9.5\basic-benchmarking\basic-benchmarking\astar.cpp(142): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+1>m:\year2\data structures and algorithms 1\basic-benchmarking-week9.5\basic-benchmarking\basic-benchmarking\astar.cpp(177): warning C4018: '<' : signed/unsigned mismatch
+1>m:\year2\data structures and algorithms 1\basic-benchmarking-week9.5\basic-benchmarking\basic-benchmarking\astar.cpp(181): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+1>m:\year2\data structures and algorithms 1\basic-benchmarking-week9.5\basic-benchmarking\basic-benchmarking\astar.cpp(185): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+1>m:\year2\data structures and algorithms 1\basic-benchmarking-week9.5\basic-benchmarking\basic-benchmarking\astar.cpp(186): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+1>m:\year2\data structures and algorithms 1\basic-benchmarking-week9.5\basic-benchmarking\basic-benchmarking\astar.cpp(192): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+1>m:\year2\data structures and algorithms 1\basic-benchmarking-week9.5\basic-benchmarking\basic-benchmarking\astar.cpp(193): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+1>  basic-benchmarking.vcxproj -> M:\year2\Data Structures and Algorithms 1\basic-benchmarking-week9.5\basic-benchmarking\Debug\basic-benchmarking.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========

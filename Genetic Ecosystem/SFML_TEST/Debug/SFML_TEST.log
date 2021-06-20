@@ -1,0 +1,10 @@
+﻿  Source.cpp
+d:\honours project\honours repo\c++ project\sfml_test\source.cpp(35): warning C4326: return type of 'main' should be 'int' instead of 'void'
+d:\honours project\honours repo\c++ project\sfml_test\source.cpp(69): warning C4018: '<': signed/unsigned mismatch
+d:\honours project\honours repo\c++ project\sfml_test\source.cpp(122): warning C4018: '<': signed/unsigned mismatch
+d:\honours project\honours repo\c++ project\sfml_test\source.cpp(169): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\honours project\honours repo\c++ project\sfml_test\source.cpp(173): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\honours project\honours repo\c++ project\sfml_test\source.cpp(198): warning C4018: '<': signed/unsigned mismatch
+d:\honours project\honours repo\c++ project\sfml_test\source.cpp(239): warning C4018: '<': signed/unsigned mismatch
+Chromosome.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  SFML_TEST.vcxproj -> D:\Honours Project\Honours Repo\C++ Project\Debug\SFML_TEST.exe

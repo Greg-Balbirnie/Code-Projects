@@ -1,0 +1,11 @@
+﻿  person.cpp
+  main.cpp
+m:\year2\semester_2\source_code\consoleapplication1\main.cpp(34): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+m:\year2\semester_2\source_code\consoleapplication1\main.cpp(69): warning C4018: '<': signed/unsigned mismatch
+m:\year2\semester_2\source_code\consoleapplication1\main.cpp(76): warning C4018: '<': signed/unsigned mismatch
+m:\year2\semester_2\source_code\consoleapplication1\main.cpp(90): warning C4018: '<': signed/unsigned mismatch
+m:\year2\semester_2\source_code\consoleapplication1\main.cpp(93): warning C4018: '<=': signed/unsigned mismatch
+m:\year2\semester_2\source_code\consoleapplication1\main.cpp(99): warning C4018: '<': signed/unsigned mismatch
+m:\year2\semester_2\source_code\consoleapplication1\main.cpp(189): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  ConsoleApplication1.vcxproj -> M:\year2\semester_2\Source_code\Debug\ConsoleApplication1.exe

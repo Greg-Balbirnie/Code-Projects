@@ -1,0 +1,8 @@
+﻿  Ex1.cpp
+m:\year3\semseter 2\procedural content\markov_experiment\markov_experiment_4\markov_experiment\ex1.cpp(119): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+m:\year3\semseter 2\procedural content\markov_experiment\markov_experiment_4\markov_experiment\ex1.cpp(126): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+m:\year3\semseter 2\procedural content\markov_experiment\markov_experiment_4\markov_experiment\ex1.cpp(217): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+m:\year3\semseter 2\procedural content\markov_experiment\markov_experiment_4\markov_experiment\ex1.cpp(273): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+m:\year3\semseter 2\procedural content\markov_experiment\markov_experiment_4\markov_experiment\ex1.cpp(471): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  Markov_Experiment.vcxproj -> M:\year3\Semseter 2\Procedural Content\Markov_Experiment\Markov_Experiment_4\x64\Debug\Markov_Experiment.exe
+  Markov_Experiment.vcxproj -> M:\year3\Semseter 2\Procedural Content\Markov_Experiment\Markov_Experiment_4\x64\Debug\Markov_Experiment.pdb (Partial PDB)

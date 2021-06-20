@@ -1,0 +1,92 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Coursework.vcxproj, EO9_Distance_Tesselation.vcxproj, EO9_HeightMap_Tesselation.vcxproj, EO9_Tesselation.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  compilation object save succeeded; see M:\year3\Graphics Programming with Shaders\Coursework Submission\Coursework - NormalTest\depth_ds.cso
+M:\year3\Graphics Programming with Shaders\Coursework Submission\Coursework - NormalTest\shaders\depth_gs.hlsl(51,9-54): warning X3206: implicit truncation of vector type
+M:\year3\Graphics Programming with Shaders\Coursework Submission\Coursework - NormalTest\shaders\depth_gs.hlsl(52,9-54): warning X3206: implicit truncation of vector type
+M:\year3\Graphics Programming with Shaders\Coursework Submission\Coursework - NormalTest\shaders\depth_gs.hlsl(61,20-45): warning X4008: floating point division by zero
+M:\year3\Graphics Programming with Shaders\Coursework Submission\Coursework - NormalTest\shaders\depth_gs.hlsl(61,20-45): warning X4008: floating point division by zero
+M:\year3\Graphics Programming with Shaders\Coursework Submission\Coursework - NormalTest\shaders\depth_gs.hlsl(65,19-43): warning X4008: floating point division by zero
+M:\year3\Graphics Programming with Shaders\Coursework Submission\Coursework - NormalTest\shaders\depth_gs.hlsl(61,20-45): warning X4008: floating point division by zero
+M:\year3\Graphics Programming with Shaders\Coursework Submission\Coursework - NormalTest\shaders\depth_gs.hlsl(65,19-43): warning X4008: floating point division by zero
+M:\year3\Graphics Programming with Shaders\Coursework Submission\Coursework - NormalTest\shaders\depth_gs.hlsl(61,20-45): warning X4008: floating point division by zero
+M:\year3\Graphics Programming with Shaders\Coursework Submission\Coursework - NormalTest\shaders\depth_gs.hlsl(65,19-43): warning X4008: floating point division by zero
+M:\year3\Graphics Programming with Shaders\Coursework Submission\Coursework - NormalTest\shaders\depth_gs.hlsl(61,20-45): warning X4008: floating point division by zero
+M:\year3\Graphics Programming with Shaders\Coursework Submission\Coursework - NormalTest\shaders\depth_gs.hlsl(65,19-43): warning X4008: floating point division by zero
+  
+  compilation object save succeeded; see M:\year3\Graphics Programming with Shaders\Coursework Submission\Coursework - NormalTest\depth_gs.cso
+M:\year3\Graphics Programming with Shaders\Coursework Submission\Coursework - NormalTest\shaders\depth_hs.hlsl(42,2-67): warning X3206: implicit truncation of vector type
+M:\year3\Graphics Programming with Shaders\Coursework Submission\Coursework - NormalTest\shaders\depth_hs.hlsl(43,2-67): warning X3206: implicit truncation of vector type
+M:\year3\Graphics Programming with Shaders\Coursework Submission\Coursework - NormalTest\shaders\depth_hs.hlsl(44,2-67): warning X3206: implicit truncation of vector type
+M:\year3\Graphics Programming with Shaders\Coursework Submission\Coursework - NormalTest\shaders\depth_hs.hlsl(45,2-67): warning X3206: implicit truncation of vector type
+M:\year3\Graphics Programming with Shaders\Coursework Submission\Coursework - NormalTest\shaders\depth_hs.hlsl(114,2-42): warning X3206: implicit truncation of vector type
+  
+  compilation object save succeeded; see M:\year3\Graphics Programming with Shaders\Coursework Submission\Coursework - NormalTest\depth_hs.cso
+  compilation object save succeeded; see M:\year3\Graphics Programming with Shaders\Coursework Submission\Coursework - NormalTest\depth_ps.cso
+  compilation object save succeeded; see M:\year3\Graphics Programming with Shaders\Coursework Submission\Coursework - NormalTest\depth_vs.cso
+  compilation object save succeeded; see M:\year3\Graphics Programming with Shaders\Coursework Submission\Coursework - NormalTest\depth_Blur_ps.cso
+  compilation object save succeeded; see M:\year3\Graphics Programming with Shaders\Coursework Submission\Coursework - NormalTest\depth_Blur_vs.cso
+  compilation object save succeeded; see M:\year3\Graphics Programming with Shaders\Coursework Submission\Coursework - NormalTest\horizontalBlur_ps.cso
+  compilation object save succeeded; see M:\year3\Graphics Programming with Shaders\Coursework Submission\Coursework - NormalTest\horizontalBlur_vs.cso
+  compilation object save succeeded; see M:\year3\Graphics Programming with Shaders\Coursework Submission\Coursework - NormalTest\texture_ps.cso
+  compilation object save succeeded; see M:\year3\Graphics Programming with Shaders\Coursework Submission\Coursework - NormalTest\texture_vs.cso
+  compilation object save succeeded; see M:\year3\Graphics Programming with Shaders\Coursework Submission\Coursework - NormalTest\verticalBlur_ps.cso
+  compilation object save succeeded; see M:\year3\Graphics Programming with Shaders\Coursework Submission\Coursework - NormalTest\verticalBlur_vs.cso
+M:\year3\Graphics Programming with Shaders\Coursework Submission\Coursework - NormalTest\shaders\Light\light_ps.hlsl(57,17-51): warning X3206: implicit truncation of vector type
+M:\year3\Graphics Programming with Shaders\Coursework Submission\Coursework - NormalTest\shaders\Light\light_ps.hlsl(61,4-34): warning X3206: implicit truncation of vector type
+  
+  compilation object save succeeded; see M:\year3\Graphics Programming with Shaders\Coursework Submission\Coursework - NormalTest\light_ps.cso
+M:\year3\Graphics Programming with Shaders\Coursework Submission\Coursework - NormalTest\shaders\Light\light_vs.hlsl(55,2-53): warning X3206: implicit truncation of vector type
+  
+  compilation object save succeeded; see M:\year3\Graphics Programming with Shaders\Coursework Submission\Coursework - NormalTest\light_vs.cso
+M:\year3\Graphics Programming with Shaders\Coursework Submission\Coursework - NormalTest\shaders\normals_gs.hlsl(52,9-54): warning X3206: implicit truncation of vector type
+M:\year3\Graphics Programming with Shaders\Coursework Submission\Coursework - NormalTest\shaders\normals_gs.hlsl(53,9-54): warning X3206: implicit truncation of vector type
+  
+  compilation object save succeeded; see M:\year3\Graphics Programming with Shaders\Coursework Submission\Coursework - NormalTest\normals_gs.cso
+M:\year3\Graphics Programming with Shaders\Coursework Submission\Coursework - NormalTest\shaders\Particles\triangle_gs.hlsl(46,3-38): warning X3206: implicit truncation of vector type
+M:\year3\Graphics Programming with Shaders\Coursework Submission\Coursework - NormalTest\shaders\Particles\triangle_gs.hlsl(47,3-39): warning X3206: implicit truncation of vector type
+M:\year3\Graphics Programming with Shaders\Coursework Submission\Coursework - NormalTest\shaders\Particles\triangle_gs.hlsl(48,3-37): warning X3206: implicit truncation of vector type
+M:\year3\Graphics Programming with Shaders\Coursework Submission\Coursework - NormalTest\shaders\Particles\triangle_gs.hlsl(49,3-38): warning X3206: implicit truncation of vector type
+  
+  compilation object save succeeded; see M:\year3\Graphics Programming with Shaders\Coursework Submission\Coursework - NormalTest\triangle_gs.cso
+  compilation object save succeeded; see M:\year3\Graphics Programming with Shaders\Coursework Submission\Coursework - NormalTest\triangle_ps.cso
+  compilation object save succeeded; see M:\year3\Graphics Programming with Shaders\Coursework Submission\Coursework - NormalTest\triangle_vs.cso
+M:\year3\Graphics Programming with Shaders\Coursework Submission\Coursework - NormalTest\shaders\Shadow\shadow_ps.hlsl(48,15-70): warning X3206: 'Sample': implicit truncation of vector type
+M:\year3\Graphics Programming with Shaders\Coursework Submission\Coursework - NormalTest\shaders\Shadow\shadow_ps.hlsl(54,16-71): warning X3206: 'Sample': implicit truncation of vector type
+  
+  compilation object save succeeded; see M:\year3\Graphics Programming with Shaders\Coursework Submission\Coursework - NormalTest\shadow_ps.cso
+  compilation object save succeeded; see M:\year3\Graphics Programming with Shaders\Coursework Submission\Coursework - NormalTest\shadow_vs.cso
+  compilation object save succeeded; see M:\year3\Graphics Programming with Shaders\Coursework Submission\Coursework - NormalTest\tessellation_ps.cso
+  compilation object save succeeded; see M:\year3\Graphics Programming with Shaders\Coursework Submission\Coursework - NormalTest\tessellation_quad_ds.cso
+  compilation object save succeeded; see M:\year3\Graphics Programming with Shaders\Coursework Submission\Coursework - NormalTest\tessellation_quad_hs.cso
+  compilation object save succeeded; see M:\year3\Graphics Programming with Shaders\Coursework Submission\Coursework - NormalTest\tessellation_vs.cso
+  TestMesh.cpp
+  TessQuadMesh.cpp
+  TessPlaneMesh.cpp
+  TessellationShader.cpp
+  TessellationQuadShader.cpp
+  ShadowShader.cpp
+  SinglePointMesh.cpp
+m:\year3\graphics programming with shaders\coursework submission\coursework - normaltest\particles\singlepointmesh.cpp(32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+m:\year3\graphics programming with shaders\coursework submission\coursework - normaltest\particles\singlepointmesh.cpp(92): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  GeometryShader.cpp
+m:\year3\graphics programming with shaders\coursework submission\coursework - normaltest\particles\geometryshader.cpp(49): warning C4101: 'lightBufferDesc': unreferenced local variable
+m:\year3\graphics programming with shaders\coursework submission\coursework - normaltest\particles\geometryshader.cpp(51): warning C4101: 'tessellationBufferDesc': unreferenced local variable
+  Main.cpp
+  LightShader.cpp
+  VerticalBlurShader.cpp
+  TextureShader.cpp
+  HorizontalBlurShader.cpp
+  DepthShader.cpp
+  DepthBlurShader.cpp
+  ColourShader.cpp
+  App1.cpp
+m:\year3\graphics programming with shaders\coursework submission\coursework - normaltest\app1.cpp(339): warning C4305: 'argument': truncation from 'double' to 'float'
+m:\year3\graphics programming with shaders\coursework submission\coursework - normaltest\app1.cpp(377): warning C4305: 'argument': truncation from 'double' to 'float'
+m:\year3\graphics programming with shaders\coursework submission\coursework - normaltest\app1.cpp(450): warning C4305: 'argument': truncation from 'double' to 'float'
+m:\year3\graphics programming with shaders\coursework submission\coursework - normaltest\app1.cpp(533): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+m:\year3\graphics programming with shaders\coursework submission\coursework - normaltest\app1.cpp(569): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+DXFramework.lib(WICTextureLoader.obj) : warning LNK4099: PDB 'DirectXTK.pdb' was not found with 'DXFramework.lib(WICTextureLoader.obj)' or at 'M:\year3\Graphics Programming with Shaders\Coursework Submission\Debug\DirectXTK.pdb'; linking object as if no debug info
+DXFramework.lib(pch.obj) : warning LNK4099: PDB 'DirectXTK.pdb' was not found with 'DXFramework.lib(pch.obj)' or at 'M:\year3\Graphics Programming with Shaders\Coursework Submission\Debug\DirectXTK.pdb'; linking object as if no debug info
+DXFramework.lib(DDSTextureLoader.obj) : warning LNK4099: PDB 'DirectXTK.pdb' was not found with 'DXFramework.lib(DDSTextureLoader.obj)' or at 'M:\year3\Graphics Programming with Shaders\Coursework Submission\Debug\DirectXTK.pdb'; linking object as if no debug info
+  Coursework - NormalTest.vcxproj -> M:\year3\Graphics Programming with Shaders\Coursework Submission\Debug\Coursework - NormalTest.exe
+  Coursework - NormalTest.vcxproj -> M:\year3\Graphics Programming with Shaders\Coursework Submission\Debug\Coursework - NormalTest.pdb (Full PDB)

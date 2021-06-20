@@ -1,0 +1,48 @@
+﻿1>------ Build started: Project: GraphicsProgramming, Configuration: Debug Win32 ------
+1>  Scene.cpp
+1>m:\year2\graphics programming\coursework\graphicsprogramming\graphicsprogramming\scene.cpp(109): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+1>m:\year2\graphics programming\coursework\graphicsprogramming\graphicsprogramming\scene.cpp(110): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+1>m:\year2\graphics programming\coursework\graphicsprogramming\graphicsprogramming\scene.cpp(284): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+1>m:\year2\graphics programming\coursework\graphicsprogramming\graphicsprogramming\scene.cpp(297): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+1>m:\year2\graphics programming\coursework\graphicsprogramming\graphicsprogramming\scene.cpp(364): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+1>m:\year2\graphics programming\coursework\graphicsprogramming\graphicsprogramming\scene.cpp(370): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+1>m:\year2\graphics programming\coursework\graphicsprogramming\graphicsprogramming\scene.cpp(372): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+1>m:\year2\graphics programming\coursework\graphicsprogramming\graphicsprogramming\scene.cpp(374): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+1>m:\year2\graphics programming\coursework\graphicsprogramming\graphicsprogramming\scene.cpp(378): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+1>m:\year2\graphics programming\coursework\graphicsprogramming\graphicsprogramming\scene.cpp(379): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+1>m:\year2\graphics programming\coursework\graphicsprogramming\graphicsprogramming\scene.cpp(385): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+1>m:\year2\graphics programming\coursework\graphicsprogramming\graphicsprogramming\scene.cpp(386): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+1>m:\year2\graphics programming\coursework\graphicsprogramming\graphicsprogramming\scene.cpp(392): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+1>m:\year2\graphics programming\coursework\graphicsprogramming\graphicsprogramming\scene.cpp(393): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+1>m:\year2\graphics programming\coursework\graphicsprogramming\graphicsprogramming\scene.cpp(399): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+1>m:\year2\graphics programming\coursework\graphicsprogramming\graphicsprogramming\scene.cpp(400): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+1>m:\year2\graphics programming\coursework\graphicsprogramming\graphicsprogramming\scene.cpp(407): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+1>m:\year2\graphics programming\coursework\graphicsprogramming\graphicsprogramming\scene.cpp(409): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+1>m:\year2\graphics programming\coursework\graphicsprogramming\graphicsprogramming\scene.cpp(413): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+1>m:\year2\graphics programming\coursework\graphicsprogramming\graphicsprogramming\scene.cpp(414): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+1>m:\year2\graphics programming\coursework\graphicsprogramming\graphicsprogramming\scene.cpp(420): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+1>m:\year2\graphics programming\coursework\graphicsprogramming\graphicsprogramming\scene.cpp(421): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+1>m:\year2\graphics programming\coursework\graphicsprogramming\graphicsprogramming\scene.cpp(427): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+1>m:\year2\graphics programming\coursework\graphicsprogramming\graphicsprogramming\scene.cpp(428): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+1>m:\year2\graphics programming\coursework\graphicsprogramming\graphicsprogramming\scene.cpp(434): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+1>m:\year2\graphics programming\coursework\graphicsprogramming\graphicsprogramming\scene.cpp(435): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+1>m:\year2\graphics programming\coursework\graphicsprogramming\graphicsprogramming\scene.cpp(444): warning C4305: 'argument': truncation from 'double' to 'float'
+1>m:\year2\graphics programming\coursework\graphicsprogramming\graphicsprogramming\scene.cpp(445): warning C4305: 'argument': truncation from 'double' to 'float'
+1>m:\year2\graphics programming\coursework\graphicsprogramming\graphicsprogramming\scene.cpp(446): warning C4305: 'argument': truncation from 'double' to 'float'
+1>m:\year2\graphics programming\coursework\graphicsprogramming\graphicsprogramming\scene.cpp(447): warning C4305: 'argument': truncation from 'double' to 'float'
+1>m:\year2\graphics programming\coursework\graphicsprogramming\graphicsprogramming\scene.cpp(448): warning C4305: 'argument': truncation from 'double' to 'float'
+1>m:\year2\graphics programming\coursework\graphicsprogramming\graphicsprogramming\scene.cpp(449): warning C4305: 'argument': truncation from 'double' to 'float'
+1>m:\year2\graphics programming\coursework\graphicsprogramming\graphicsprogramming\scene.cpp(450): warning C4305: 'argument': truncation from 'double' to 'float'
+1>m:\year2\graphics programming\coursework\graphicsprogramming\graphicsprogramming\scene.cpp(451): warning C4305: 'argument': truncation from 'double' to 'float'
+1>m:\year2\graphics programming\coursework\graphicsprogramming\graphicsprogramming\scene.cpp(452): warning C4305: 'argument': truncation from 'double' to 'float'
+1>m:\year2\graphics programming\coursework\graphicsprogramming\graphicsprogramming\scene.cpp(453): warning C4305: 'argument': truncation from 'double' to 'float'
+1>m:\year2\graphics programming\coursework\graphicsprogramming\graphicsprogramming\scene.cpp(454): warning C4305: 'argument': truncation from 'double' to 'float'
+1>m:\year2\graphics programming\coursework\graphicsprogramming\graphicsprogramming\scene.cpp(455): warning C4305: 'argument': truncation from 'double' to 'float'
+1>m:\year2\graphics programming\coursework\graphicsprogramming\graphicsprogramming\scene.cpp(461): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+1>m:\year2\graphics programming\coursework\graphicsprogramming\graphicsprogramming\scene.cpp(462): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+1>m:\year2\graphics programming\coursework\graphicsprogramming\graphicsprogramming\scene.cpp(470): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+1>m:\year2\graphics programming\coursework\graphicsprogramming\graphicsprogramming\scene.cpp(471): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+1>m:\year2\graphics programming\coursework\graphicsprogramming\graphicsprogramming\scene.cpp(546): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+1>m:\year2\graphics programming\coursework\graphicsprogramming\graphicsprogramming\scene.cpp(547): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+1>  GraphicsProgramming.vcxproj -> M:\year2\graphics programming\Coursework\GraphicsProgramming\Debug\GraphicsProgramming.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========

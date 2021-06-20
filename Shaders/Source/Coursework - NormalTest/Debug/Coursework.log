@@ -1,0 +1,6 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (EO9_Distance_Tesselation.vcxproj, EO9_HeightMap_Tesselation.vcxproj, EO9_Tesselation.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  compilation object save succeeded; see M:\year3\Graphics Programming with Shaders\Shaders\Coursework\tessellation_ps.cso
+  compilation object save succeeded; see M:\year3\Graphics Programming with Shaders\Shaders\Coursework\tessellation_vs.cso
+  App1.cpp
+  Coursework.vcxproj -> M:\year3\Graphics Programming with Shaders\Shaders\Debug\Coursework.exe
+  Coursework.vcxproj -> M:\year3\Graphics Programming with Shaders\Shaders\Debug\Coursework.pdb (Full PDB)

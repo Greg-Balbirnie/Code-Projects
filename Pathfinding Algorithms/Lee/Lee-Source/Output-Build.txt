@@ -1,0 +1,5 @@
+﻿1>------ Build started: Project: basic-benchmarking, Configuration: Debug Win32 ------
+1>  main.cpp
+1>m:\year2\data structures and algorithms 1\basic-benchmarking-week9\basic-benchmarking\basic-benchmarking\main.cpp(30): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+1>  basic-benchmarking.vcxproj -> M:\year2\Data Structures and Algorithms 1\basic-benchmarking-week9\basic-benchmarking\Debug\basic-benchmarking.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
