@@ -1,0 +1,92 @@
+
+	/*gef::Vector4 midpoint_BC = ((matrix_B.GetTranslation() + matrix_C.GetTranslation()) / 2);
+	gef::Vector4 midpoint_CA = ((matrix_C.GetTranslation() + matrix_A.GetTranslation()) / 2);
+
+	// Set up local transforms
+	gef::Matrix44 local_scale;
+	gef::Matrix44 local_rotation;
+
+	// Create new transform
+	gef::Matrix44 render_transform;
+
+	// Set local scale
+	local_scale.Scale(gef::Vector4(0.059, 0.059, 0.059));
+	
+	float dist;	// Distance between A and B
+	float h_dist;	// Difference in X coord
+	float angle;	// Angle between then markers
+
+	// Set values for AB
+	dist = sqrt(pow(matrix_B.GetTranslation().x() - matrix_A.GetTranslation().x(), 2) + pow(matrix_B.GetTranslation().y() - matrix_A.GetTranslation().y(), 2));
+	h_dist = matrix_B.GetTranslation().x() - matrix_A.GetTranslation().x();
+	angle = asin(h_dist / dist);
+
+	// Set local scale o distance
+	local_scale.Scale(gef::Vector4(0.01, dist, 0.01));
+
+	// Set the rotation for the first cube
+	local_rotation.RotationZ(angle);
+
+	gef::Matrix44 test_matrix_s;
+	gef::Matrix44 test_matrix_r;
+	gef::Matrix44 test_matrix;
+	test_matrix_s.Scale(matrix_A.GetScale());
+	test_matrix_r.RotationZ(0);
+	test_matrix = test_matrix_s * test_matrix_r;
+
+	// Combine scale and rotation to find transform local to marker A
+	render_transform = local_scale * local_rotation * test_matrix;
+
+	// Rest translation to correct place
+	render_transform.SetTranslation(midpoint_AB);
+
+	// set transform of cube AB
+	cube_AB.set_transform(render_transform);
+
+	// set values for BC
+	dist = sqrt(pow(matrix_C.GetTranslation().x() - matrix_B.GetTranslation().x(), 2) + pow(matrix_C.GetTranslation().y() - matrix_B.GetTranslation().y(), 2));
+	h_dist = matrix_C.GetTranslation().x() - matrix_B.GetTranslation().x();
+	angle = asin(h_dist / dist);
+
+	// Set local scale o distance
+	local_scale.Scale(gef::Vector4(0.01, dist, 0.01));
+
+	// Set the rotation for the second cube
+	local_rotation.RotationZ(angle);
+
+	test_matrix_s.Scale(matrix_B.GetScale());
+	test_matrix_r.RotationZ(0);
+	test_matrix = test_matrix_s * test_matrix_r;
+
+	// Combine scale and rotation to find transform local to marker B
+	render_transform = local_scale * local_rotation * test_matrix;
+
+	// Rest translation to correct place
+	render_transform.SetTranslation(midpoint_BC);
+
+	// set transform of cube AB
+	cube_BC.set_transform(render_transform);
+
+	// set values for CA
+	dist = sqrt(pow(matrix_A.GetTranslation().x() - matrix_C.GetTranslation().x(), 2) + pow(matrix_A.GetTranslation().y() - matrix_C.GetTranslation().y(), 2));
+	h_dist = matrix_A.GetTranslation().x() - matrix_C.GetTranslation().x();
+	angle = asin(h_dist / dist); 
+
+	// Set local scale o distance
+	local_scale.Scale(gef::Vector4(0.01, dist, 0.01));
+
+	// Set the rotation for the third cube
+	local_rotation.RotationZ(angle);
+
+	test_matrix_s.Scale(matrix_C.GetScale());
+	test_matrix_r.RotationZ(0);
+	test_matrix = test_matrix_s * test_matrix_r;
+
+	// Combine scale and rotation to find transform local to marker C
+	render_transform = local_scale * local_rotation * test_matrix;
+
+	// Rest translation to correct place
+	render_transform.SetTranslation(midpoint_CA);
+
+	// set transform of cube AB
+	cube_CA.set_transform(render_transform);*/

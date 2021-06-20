@@ -1,0 +1,61 @@
+﻿  animation.cpp
+  joint.cpp
+  skeleton.cpp
+  obj_loader.cpp
+  png_loader.cpp
+  audio_manager.cpp
+  colour.cpp
+  default_3d_shader.cpp
+M:\Year 4\Advanced Game Technologies\Coursework\Build\gef_abertay\graphics\default_3d_shader.cpp(36,7): warning 552: variable "success" was set but never used
+  
+  default_3d_shader_data.cpp
+  default_3d_skinning_shader.cpp
+M:\Year 4\Advanced Game Technologies\Coursework\Build\gef_abertay\graphics\default_3d_skinning_shader.cpp(37,7): warning 552: variable "success" was set but never used
+  
+M:\Year 4\Advanced Game Technologies\Coursework\Build\gef_abertay\graphics\default_3d_skinning_shader.cpp(161,77): warning 1786: cast of address from "gef::Matrix44 *" to "float *" violates strict-aliasing rules
+  
+  default_sprite_shader.cpp
+M:\Year 4\Advanced Game Technologies\Coursework\Build\gef_abertay\graphics\default_sprite_shader.cpp(29,7): warning 552: variable "success" was set but never used
+  
+  depth_buffer.cpp
+  font.cpp
+  image_data.cpp
+  index_buffer.cpp
+  material.cpp
+  mesh.cpp
+  mesh_data.cpp
+  mesh_instance.cpp
+  model.cpp
+  primitive.cpp
+  renderer_3d.cpp
+  render_target.cpp
+  scene.cpp
+  shader.cpp
+  shader_interface.cpp
+  skinned_mesh_instance.cpp
+  skinned_mesh_shader_data.cpp
+  sprite.cpp
+  sprite_renderer.cpp
+  texture.cpp
+  vertex_buffer.cpp
+  input_manager.cpp
+  keyboard.cpp
+  sony_controller_input_manager.cpp
+  touch_input_manager.cpp
+  aabb.cpp
+  frustum.cpp
+  matrix33.cpp
+  matrix44.cpp
+  plane.cpp
+  quaternion.cpp
+  sphere.cpp
+  transform.cpp
+  vector2.cpp
+  vector4.cpp
+  application.cpp
+  crc.cpp
+  file.cpp
+  memory_stream_buffer.cpp
+  platform.cpp
+  string_id.cpp
+  gef.vcxproj -> M:\Year 4\Advanced Game Technologies\Coursework\Build\ar_app\build\vs2017\PSVita\Debug\gef.a

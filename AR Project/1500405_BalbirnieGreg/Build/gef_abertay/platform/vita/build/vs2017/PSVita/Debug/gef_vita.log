@@ -1,0 +1,37 @@
+﻿  Compiling Fragment Shader: "M:\Year 4\Advanced Game Technologies\Coursework\Build\gef_abertay\platform\vita\graphics\shaders\clear_f.cg"
+  Compiling Vertex Shader: "M:\Year 4\Advanced Game Technologies\Coursework\Build\gef_abertay\platform\vita\graphics\shaders\clear_v.cg"
+  Compiling Fragment Shader: "M:\Year 4\Advanced Game Technologies\Coursework\Build\gef_abertay\platform\vita\graphics\shaders\default_sprite_shader_ps.cg"
+  Compiling Vertex Shader: "M:\Year 4\Advanced Game Technologies\Coursework\Build\gef_abertay\platform\vita\graphics\shaders\default_sprite_shader_vs.cg"
+  Compiling Fragment Shader: "M:\Year 4\Advanced Game Technologies\Coursework\Build\gef_abertay\platform\vita\graphics\shaders\default_3d_shader_ps.cg"
+  Compiling Vertex Shader: "M:\Year 4\Advanced Game Technologies\Coursework\Build\gef_abertay\platform\vita\graphics\shaders\default_3d_shader_vs.cg"
+  Compiling Vertex Shader: "M:\Year 4\Advanced Game Technologies\Coursework\Build\gef_abertay\platform\vita\graphics\shaders\default_3d_skinning_shader_vs.cg"
+  Compiling Fragment Shader: "M:\Year 4\Advanced Game Technologies\Coursework\Build\gef_abertay\platform\vita\graphics\shaders\default_3d_skinning_shader_ps.cg"
+  audio_manager_vita.cpp
+  default_3d_shader_vita.cpp
+M:\Year 4\Advanced Game Technologies\Coursework\Build\gef_abertay\platform\vita\graphics\default_3d_shader_vita.cpp(144,89): warning 1786: cast of address from "gef::Matrix44 *" to "const float *" violates strict-aliasing rules
+  
+M:\Year 4\Advanced Game Technologies\Coursework\Build\gef_abertay\platform\vita\graphics\default_3d_shader_vita.cpp(145,91): warning 1786: cast of address from "gef::Matrix44 *" to "const float *" violates strict-aliasing rules
+  
+  depth_buffer_vita.cpp
+  index_buffer_vita.cpp
+  renderer_3d_vita.cpp
+  render_target_vita.cpp
+  shader_interface_vita.cpp
+  shader_vita.cpp
+  skinned_mesh_shader_vita.cpp
+M:\Year 4\Advanced Game Technologies\Coursework\Build\gef_abertay\platform\vita\graphics\skinned_mesh_shader_vita.cpp(168,89): warning 1786: cast of address from "gef::Matrix44 *" to "const float *" violates strict-aliasing rules
+  
+M:\Year 4\Advanced Game Technologies\Coursework\Build\gef_abertay\platform\vita\graphics\skinned_mesh_shader_vita.cpp(169,91): warning 1786: cast of address from "gef::Matrix44 *" to "const float *" violates strict-aliasing rules
+  
+M:\Year 4\Advanced Game Technologies\Coursework\Build\gef_abertay\platform\vita\graphics\skinned_mesh_shader_vita.cpp(171,117): warning 1786: cast of address from "gef::Matrix44 *" to "const float *" violates strict-aliasing rules
+  
+  sprite_renderer_vita.cpp
+  texture_vita.cpp
+  vertex_buffer_vita.cpp
+  input_manager_vita.cpp
+  sony_controller_input_manager_vita.cpp
+  touch_input_manager_vita.cpp
+  debug_log_vita.cpp
+  file_vita.cpp
+  platform_vita.cpp
+  gef_vita.vcxproj -> M:\Year 4\Advanced Game Technologies\Coursework\Build\ar_app\build\vs2017\PSVita\Debug\gef_vita.a
